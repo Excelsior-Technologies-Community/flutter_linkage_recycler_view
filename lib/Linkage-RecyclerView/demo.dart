@@ -48,11 +48,17 @@ class LinkageDemoScreen extends StatelessWidget {
       LinkageItem("Burger", "Double Patty Burger"),
 
       LinkageItem("Drinks", "Cold Coffee"),
+      LinkageItem("Drinks", "Cold Coffee"),
       LinkageItem("Drinks", "Lemon Soda"),
+      LinkageItem("Drinks", "Lemon Soda"),
+      LinkageItem("Drinks", "Chocolate Shake"),
       LinkageItem("Drinks", "Chocolate Shake"),
 
       LinkageItem("Dessert", "Ice Cream"),
+      LinkageItem("Dessert", "Ice Cream"),
       LinkageItem("Dessert", "Brownie"),
+      LinkageItem("Dessert", "Brownie"),
+      LinkageItem("Dessert", "Cup Cake"),
       LinkageItem("Dessert", "Cup Cake"),
     ];
 
